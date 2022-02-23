@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">Competitive Programming Enthusiast</h3>
 
@@ -11,7 +10,7 @@
  
 - Email : **sonukumar301299@gmail.com**
 
-- My Resume : [https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk](https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk)
+- Resume : [https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk](https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
