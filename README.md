@@ -1,6 +1,6 @@
-# SONU KUMAR
 
-<h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
+
+<h1 align="center">Hi 👋, I'm SONU KUMAR</h1>
 <h3 align="center">Competitive Programming Enthusiast</h3>
 
 - 🌱 I’m currently learning **Data Structures And Algorithms,Web Development**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sonukumar301299@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk](https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk)
+- 📄 My Resume : [https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk](https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
