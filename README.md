@@ -1,12 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm SONU KUMAR</h1>
+<h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">Competitive Programming Enthusiast</h3>
 
-- I’m currently learning **Data Structures And Algorithms,Web Development**
+- Currently learning **Data Structures & Algorithms , Web Development**
 
--  **Algorithms,Data Structure,C++,HTML,CSS,PHP,JavaScript.**
-
+- Sujective Skills : **Algorithms,Data Structure,DBMS,Operating System,OOPs**
+ 
+- Technical Skills : **C/C++,HTML,CSS,JavaScript,PHP**
+ 
 - Email : **sonukumar301299@gmail.com**
 
 - My Resume : [https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk](https://drive.google.com/drive/u/0/folders/1emJklTMdtK3w7dGQdB_xvs4Ic-KU55nk)
