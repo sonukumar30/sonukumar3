@@ -1,4 +1,4 @@
-# sonukumar3
+# SONU KUMAR
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">Competitive Programming Enthusiast</h3>
