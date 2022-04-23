@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">Competitive Programming Enthusiast</h3>
 
-- Currently learning **Data Structures & Algorithms , Web Development**
+- Major Work :  **Data Structures & Algorithms , Web Development**
 
-- Sujective Skills : **Algorithms,Data Structure,DBMS,Operating System,OOPs**
+- Sujective Skills : **Algorithms,Data Structure,DBMS,Operating System**
  
 - Technical Skills : **C/C++,HTML,CSS,JavaScript,PHP**
  
