@@ -4,7 +4,7 @@
 
 - Major Work :  **Data Structures & Algorithms , Problem Solving**
 
-- Sujective Skills : **Algorithms,Data Structure,DBMS,Operating System**
+- Sujective Skills : **Algorithms, Data Structure, DBMS, Operating System**
  
 - Technical Skills : **C/C++, HTML, CSS, JavaScript, BootStrap, NodeJS, ReactJS & PHP**
  
