@@ -10,7 +10,7 @@
  
 - Email : **sonukumar301299@gmail.com**
 
-- Resume : **https://drive.google.com/file/d/1D_2ISqF7eu-p1HbTH6-qamrCQ-zK88-k/view?usp=sharing**
+- Resume : **https://drive.google.com/file/d/1q2_F7MLUJOCXn0rYptQDospGpYNX4MK4/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
