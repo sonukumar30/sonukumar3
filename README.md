@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">Competitive Programming Enthusiast</h3>
 
-- Major Work :  **Data Structures & Algorithms , Problem Solving**
+- Major Work :  **RoR Developer , Problem Solving**
 
-- Sujective Skills : **Algorithms, Data Structure, DBMS, Operating System**
+- Sujective Skills : **Algorithms, Data Structure, DBMS, SQLite, Operating System**
  
-- Technical Skills : **C/C++, HTML, CSS, JavaScript, BootStrap, NodeJS, ReactJS & PHP**
+- Technical Skills : **C++, Ruby, Rails, Rest API, Factorygirl, HTML, CSS, JavaScript**
  
 - Email : **sonukumar301299@gmail.com**
-
-- Resume : **https://drive.google.com/file/d/1q2_F7MLUJOCXn0rYptQDospGpYNX4MK4/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
