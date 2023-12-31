@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">Competitive Programming Enthusiast</h3>
+<h3 align="center">RoR Developer</h3>
 
 - Major Work :  **RoR Developer , Problem Solving**
 
