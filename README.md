@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
-<h3 align="center">RoR Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
-- Major Work :  **RoR Developer , Problem Solving**
-
-- Sujective Skills : **Algorithms, Data Structure, DBMS, SQLite, Operating System**
+- Sujective Skills : **Algorithms, Data Structure, DBMS, MySQL, Postgresql, and Operating System**
  
-- Technical Skills : **C++, Ruby, Rails, Rest API, Factorygirl, HTML, CSS, JavaScript**
+- Technical Skills : **Java, C++, Golang, Ruby on Rails, Rest API, Unit Testing, HTML, CSS, JavaScript**
  
 - Email : **sonukumar301299@gmail.com**
 
